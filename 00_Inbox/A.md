@@ -1,27 +1,41 @@
-a
-a
-Derivalas
-<%*
-const c = await tp.user.course_picker();
-tR += `---
-type: keplet
-course: [[${c.page}]]
-course_code: ${c.code}
-course_name: ${c.name}
-semester: ${c.semester}
-topic:
-tags: [keplet, psz]
----`
-%>
+---
+type: kurzus
+category: reál
+course_code: 
+course_name: 
+semester: 
+credits: 
+instructor: 
+status: aktív
+exam_type: vizsga # vagy zh, gyakorlati jegy
+tags: [kurzus, real, psz]
+---
 
-# Képlet: <% tp.file.title %>
+# <% tp.file.title %>
 
-$$
-% Ide jön a LaTeX képlet
-$$
+## Syllabus / követelmények
+- Óratípusok: előadás / gyakorlat
+- Ponthatár, zh/vizsga feltételek
+- Megengedett segédeszközök
 
-## Magyarázat / alkalmazás
+## Témakörök és képletek
+- T1: 
+- T2: 
+
+> **Képletgyűjtemény**
 - 
 
-## Minta feladat
+## Tipikus feladatok & megoldási sémák
+- Feladattípus: 
+  - Lépések: 
+  - Figyelmeztetés: 
+
+## Anyagok / linkek
 - 
+
+## Haladás tracker
+```dataview
+TABLE date, type, file.link
+FROM "30_Jegyzetek","40_Feladatok","60_Vizsgak"
+WHERE course = this.file.link
+SORT date ASC
