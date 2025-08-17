@@ -1,0 +1,12 @@
+[
+  { "code": "PSZK-KOZG1",  "name": "Közgazdaságtan 1", "category": "reál",  "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-KOZG1 - Közgazdaságtan 1" },
+  { "code": "PSZK-NJI",    "name": "Nemzetközi és jogi ismeretek", "category": "humán", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-NJI - Nemzetközi és jogi ismeretek" },
+  { "code": "PSZK-SZA",    "name": "Számvitel alapjai", "category": "reál", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-SZA - Számvitel alapjai" },
+  { "code": "PSZK-SZME",   "name": "Szervezetmenedzsment", "category": "humán", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-SZME - Szervezetmenedzsment" },
+  { "code": "PSZK-TESI1-A","name": "Testnevelés 1 (A)", "category": "egyéb", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-TESI1-A - Testnevelés 1 (A)" },
+  { "code": "PSZK-TESI1-B","name": "Testnevelés 1 (B)", "category": "egyéb", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-TESI1-B - Testnevelés 1 (B)" },
+  { "code": "PSZK-ANGOL1", "name": "Üzleti és társadalomtudományi idegen nyelv (angol)", "category": "humán", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-ANGOL1 - Üzleti és társadalomtudományi idegen nyelv (angol)" },
+  { "code": "PSZK-UZINFO", "name": "Üzleti informatika", "category": "reál", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-UZINFO - Üzleti informatika" },
+  { "code": "PSZK-UZKOM",  "name": "Üzleti kommunikáció", "category": "humán", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-UZKOM - Üzleti kommunikáció" },
+  { "code": "PSZK-UZMAT",  "name": "Üzleti matematika", "category": "reál", "credits": "", "instructor": "", "semester": "2025/26-1", "page": "PSZK-UZMAT - Üzleti matematika" }
+]
