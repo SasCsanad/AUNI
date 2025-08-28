@@ -248,7 +248,7 @@ A=
 \bigl( (-1)\cdot(-1)\cdot(-2)
       + 1\cdot(-3)\cdot2
       + 2\cdot2\cdot1 \bigr) = \boxed{-1}
-\end{aligned}&& \text{Ez lesz a det(A) nekünk} \\
+\end{aligned}&& \text{Ez lesz a det(A) nekünk (csúnya megoldás)} \\
   \\
 \begin{aligned}
 A_{x} = \begin{bmatrix}
