@@ -1,0 +1,91 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "20_Kurzusok/Üzleti matematika/Jegyzetek/Elmélet",
+      "tag": "#ÜM_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Üzleti matematika/Jegyzetek/Gyakorlat",
+      "tag": "#ÜM_GY",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Üzleti informatika/Jegyzetek/Elmélet",
+      "tag": "#ÜI_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Üzleti informatika/Jegyzetek/Gyakorlat",
+      "tag": "#ÜI_GY",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Üzleti kommunikáció/Jegyzetek/Elmélet",
+      "tag": "#ÜK_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Üzleti kommunikáció/Jegyzetek/Gyakorlat",
+      "tag": "#ÜK_GY",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Közgazdaságtan 1/Jegyzetek/Elmélet",
+      "tag": "#KZ_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Közgazdaságtan 1/Jegyzetek/Gyakorlat",
+      "tag": "#KZ_GY",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Nemzetközi jogi ismeretek/Jegyzetek/Elmélet",
+      "tag": "#NJ_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Nemzetközi jogi ismeretek/Jegyzetek/Gyakorlat",
+      "tag": "#NJ_GY",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Számvitel alapjai/Jegyzetek/Elmélet",
+      "tag": "#SZÁ_E",
+      "pattern": ""
+    },
+    {
+      "folder": "20_Kurzusok/Számvitel alapjai/Jegyzetek/Gyakorlat",
+      "tag": "#SZÁ_GY",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+  "folder": "99_Archiv"
+  },
+  {
+  "folder": "_Templates"
+  },
+  {
+    "folder": "_Scripts"
+  },
+  {
+    "folder": "_fit"
+  },
+  {
+  "folder": "_Assets"
+  },
+  {
+    "folder": "_Data"
+  },
+  {
+    "folder": "Excalidraw"
+  }
+  ]
+}
