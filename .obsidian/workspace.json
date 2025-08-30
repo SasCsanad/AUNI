@@ -184,11 +184,13 @@
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "30b41b990c6b2850",
   "lastOpenFiles": [
+    "add.gitkeep.ps1",
     " - Copy.gitkeep",
     "_Templates/eloadas_template.md",
     "20_Kurzusok/Számvitel alapjai/Jegyzetek/Gyakorlat/SZÁ_GY - 2025-08-31.md",
